@@ -1,0 +1,8 @@
+{
+  "name": "realistic-processors",
+  "version": "1",
+  "author": "xblade720",
+  "description": "make the logic look better",
+  minGameVersion: 136
+  hidden: true
+  }
